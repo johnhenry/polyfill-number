@@ -1,0 +1,13 @@
+{
+  "name": "polyfill-number",
+  "version": "0.0.1",
+  "description": "Add useful functions to numbers",
+  "keywords": ["polyfill","number","math"],
+  "author": "John Henry <john@iamjohnhenry.com>",
+  "homepage": "https://github.com/johnhenry/polyfill-number",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/johnhenry/polyfill-number.git"
+  },
+  "main": "index"
+}
